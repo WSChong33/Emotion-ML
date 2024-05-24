@@ -1,0 +1,5 @@
+/dataset/
+/path/
+/src/__pycache__/
+/src/emotion_cnn.pth
+dataset.csv
