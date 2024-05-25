@@ -1,6 +1,14 @@
 # Emotion Detection
 
-- Machine learning algorithm to detect real-time facial emotion using camera
+- Training a CNN model to detect real-time facial emotion
+
+# List of technologies:
+- Python
+- PyTorch
+- OpenCV
+- pandas
+- NumPy
+- Python Imaging Library
 
 - Setup:
     - Run "python3 -m venv path/to/venv"
